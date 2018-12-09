@@ -1,0 +1,9 @@
+C:\Users\yuval\Source\Repos\ProductAssignment\ProductImporter\bin\Release\netstandard2.0\ProductImporter.deps.json
+C:\Users\yuval\Source\Repos\ProductAssignment\ProductImporter\bin\Release\netstandard2.0\ProductImporter.dll
+C:\Users\yuval\Source\Repos\ProductAssignment\ProductImporter\bin\Release\netstandard2.0\ProductImporter.pdb
+C:\Users\yuval\Source\Repos\ProductAssignment\ProductImporter\obj\Release\netstandard2.0\ProductImporter.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Source\Repos\ProductAssignment\ProductImporter\obj\Release\netstandard2.0\ProductImporter.AssemblyInfoInputs.cache
+C:\Users\yuval\Source\Repos\ProductAssignment\ProductImporter\obj\Release\netstandard2.0\ProductImporter.AssemblyInfo.cs
+C:\Users\yuval\Source\Repos\ProductAssignment\ProductImporter\obj\Release\netstandard2.0\ProductImporter.dll
+C:\Users\yuval\Source\Repos\ProductAssignment\ProductImporter\obj\Release\netstandard2.0\ProductImporter.pdb
+C:\Users\yuval\Source\Repos\ProductAssignment\ProductImporter\obj\Release\netstandard2.0\ProductImporter.csprojAssemblyReference.cache
